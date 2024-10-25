@@ -1,6 +1,6 @@
 # Bem-vindo ao meu repositório! :hammer_and_wrench:
 
-Sou o Gabriel, formado em Análise e Desenvolvimento de Sistemas, e Pós-graduado em Desenvolvimento Full-Stack e Inteligência Artificial e Machine Learning.<br>
+Sou o Gabriel, formado em Análise e Desenvolvimento de Sistemas, e Pós-graduado em Desenvolvimento Full Stack e Inteligência Artificial e Machine Learning.<br>
 Aqui você pode encontrar meus projetos Back-end e Full-Stack. Sinta-se livre para usar, copiar, baixar, editar, e comentar todos os meus códigos.<br>
 Muitos códigos apresentados aqui são frutos de projetos de cursos que utilizei para aprender as Hard Skills que tenho hoje.<br>
 
