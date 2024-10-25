@@ -9,7 +9,7 @@ Muitos códigos apresentados aqui são frutos de projetos de cursos que utilizei
   <img align="Center" src="https://github-readme-stats.vercel.app/api?username=gabrielp15&show_icons=true&include_all_commits=true&count_private=true&theme=dark"&repo=github-readme-stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielp15">
-  <img align = "Right" & height = "190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielp15&show_icons=true&count_private=true&langs_count=5&theme=dark" />
+  <img align = "Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielp15&show_icons=true&count_private=true&langs_count=5&theme=dark" />
 </a>
 
 ## Lista de projetos:<br>
