@@ -1,18 +1,19 @@
 # Bem-vindo ao meu repositório! :hammer_and_wrench:
 
-Aqui você pode encontrar meus projetos Back-end e Full-Stack. <br>
-Sinta-se livre para usar, copiar, baixar, editar, e comentar todos os meus códigos.<br>
+Sou o Gabriel, formado em Análise e Desenvolvimento de Sistemas, e Pós-graduado em Desenvolvimento Full-Stack e Inteligência Artificial e Machine Learning.<br>
+Aqui você pode encontrar meus projetos Back-end e Full-Stack. Sinta-se livre para usar, copiar, baixar, editar, e comentar todos os meus códigos.<br>
 Muitos códigos apresentados aqui são frutos de projetos de cursos que utilizei para aprender as Hard Skills que tenho hoje.<br>
 
-## Stats & Linguagens <br>
+## Stats <br>
 <a href="https://github.com/gabrielp15/github-readme-stats">
   <img align="Center" src="https://github-readme-stats.vercel.app/api?username=gabrielp15&show_icons=true&include_all_commits=true&count_private=true&theme=dark"&repo=github-readme-stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielp15">
-  <img align = "Right" height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielp15&show_icons=true&count_private=true&langs_count=5&theme=dark" />
-</a>
 
-## Lista de projetos:<br>
+
+## Tech Stack <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+## Principais projetos:<br>
 - Em construção!
 
 ## Lista de tarefas :books:
