@@ -22,7 +22,7 @@ Muitos códigos apresentados aqui são frutos de projetos de cursos que utilizei
 - [ ] Aperfeiçoar meus códigos Dev Mobile (Foco em Java e Kotlin);
 - [ ] Aperfeiçoar meu COBOL;
 
-### Até a metade de 2025:
+### Até o final de 2025:
 - [ ] Tirar minha certificação OCP JAVA 17 (1Z0-829)
 
 ## Contatos
