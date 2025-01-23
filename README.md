@@ -17,13 +17,13 @@ Muitos códigos apresentados aqui são frutos de projetos de cursos que utilizei
 - Em construção!
 
 ## Lista de tarefas :books:
-### Até o fim de 2024:
+### Até a metade de 2025:
 - [ ] Aperfeiçoar o meu JAVA - (Estou estudando pela Alura);
-- [ ] Aprender Dev Mobile (Foco em Java e Kotlin);
+- [ ] Aperfeiçoar meus códigos Dev Mobile (Foco em Java e Kotlin);
 - [ ] Aperfeiçoar meu COBOL;
 
 ### Até a metade de 2025:
-- [ ] Em construção!
+- [ ] Tirar minha certificação OCP JAVA 17 (1Z0-829)
 
 ## Contatos
 <div> 
